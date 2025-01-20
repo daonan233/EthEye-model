@@ -5,7 +5,8 @@ import time
 import csvfile
 
 # API密钥，需替换为你自己合法有效的密钥
-api_key = "X5E3ISHC41JFT9UJR38JR58SBUDEPZ3DS3"
+# "X5E3ISHC41JFT9UJR38JR58SBUDEPZ3DS3"
+api_key = "shangmiande"
 # 目标以太坊地址，示例中已给出，你可按需替换
 address = "0xddbd2b932c763ba5b1b7ae3b362eac3e8d40121a"
 # API接口的基础URL
