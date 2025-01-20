@@ -1,4 +1,6 @@
-- Based on the code of [Ethident](https://github.com/jjzhou012/Ethident)
+## Dependences
+Based on the code of [Ethident](https://github.com/jjzhou012/Ethident)
+From paper [ Behavior-aware Account De-anonymization on Ethereum Interaction Graph](https://arxiv.org/pdf/2203.09360)
 - Python 3.7
 - Pytorch-Geometric 2.0.3
 - Pytorch 1.8.0
