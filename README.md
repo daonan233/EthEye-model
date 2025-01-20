@@ -1,3 +1,4 @@
+- Based on the code of [Ethident](https://github.com/jjzhou012/Ethident)
 - Python 3.7
 - Pytorch-Geometric 2.0.3
 - Pytorch 1.8.0
